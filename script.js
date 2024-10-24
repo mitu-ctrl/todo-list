@@ -18,6 +18,8 @@ if(input.value == ""){
 
     input.value = "";
 
+const edit = document.createElement('i');
 
+edit.classList.add("")
 
 })
